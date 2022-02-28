@@ -73,3 +73,5 @@ func getCombinations(digits []int, size int, found map[int]bool) {
 		}
 	}
 }
+
+//Go Playground: https://go.dev/play/p/N_CYoRFoDO3
